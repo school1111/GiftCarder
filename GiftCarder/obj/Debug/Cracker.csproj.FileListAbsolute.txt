@@ -1,0 +1,41 @@
+c:\users\я\documents\visual studio 2017\Projects\Cracker\Cracker\bin\Debug\Cracker.exe.config
+c:\users\я\documents\visual studio 2017\Projects\Cracker\Cracker\bin\Debug\Cracker.exe
+c:\users\я\documents\visual studio 2017\Projects\Cracker\Cracker\bin\Debug\Cracker.pdb
+c:\users\я\documents\visual studio 2017\Projects\Cracker\Cracker\obj\Debug\Cracker.csprojResolveAssemblyReference.cache
+c:\users\я\documents\visual studio 2017\Projects\Cracker\Cracker\obj\Debug\Cracker.exe
+c:\users\я\documents\visual studio 2017\Projects\Cracker\Cracker\obj\Debug\Cracker.pdb
+E:\VMware\Crack\work\Cracker\Cracker\Cracker\bin\Debug\Cracker.exe.config
+E:\VMware\Crack\work\Cracker\Cracker\Cracker\bin\Debug\Cracker.exe
+E:\VMware\Crack\work\Cracker\Cracker\Cracker\bin\Debug\Cracker.pdb
+E:\VMware\Crack\work\Cracker\Cracker\Cracker\obj\Debug\Cracker.csprojResolveAssemblyReference.cache
+E:\VMware\Crack\work\Cracker\Cracker\Cracker\obj\Debug\Cracker.exe
+E:\VMware\Crack\work\Cracker\Cracker\Cracker\obj\Debug\Cracker.pdb
+E:\VMware\Crack\work\Cracker\Cracker\Cracker\bin\Debug\xNet.dll
+C:\Users\я\Desktop\Cracker\Cracker\bin\Debug\Cracker.exe.config
+C:\Users\я\Desktop\Cracker\Cracker\bin\Debug\Cracker.exe
+C:\Users\я\Desktop\Cracker\Cracker\bin\Debug\Cracker.pdb
+C:\Users\я\Desktop\Cracker\Cracker\obj\Debug\Cracker.csprojResolveAssemblyReference.cache
+C:\Users\я\Desktop\Cracker\Cracker\obj\Debug\Cracker.exe
+C:\Users\я\Desktop\Cracker\Cracker\obj\Debug\Cracker.pdb
+E:\VMware\Crack\work\Cracker(1)\Cracker\bin\Debug\Cracker.exe.config
+E:\VMware\Crack\work\Cracker(1)\Cracker\bin\Debug\Cracker.exe
+E:\VMware\Crack\work\Cracker(1)\Cracker\bin\Debug\Cracker.pdb
+E:\VMware\Crack\work\Cracker(1)\Cracker\bin\Debug\xNet.dll
+E:\VMware\Crack\work\Cracker(1)\Cracker\obj\Debug\Cracker.csprojResolveAssemblyReference.cache
+E:\VMware\Crack\work\Cracker(1)\Cracker\obj\Debug\Cracker.exe
+E:\VMware\Crack\work\Cracker(1)\Cracker\obj\Debug\Cracker.pdb
+C:\Users\я\Desktop\GiftCarder\Cracker\bin\Debug\Cracker.exe.config
+C:\Users\я\Desktop\GiftCarder\Cracker\bin\Debug\Cracker.exe
+C:\Users\я\Desktop\GiftCarder\Cracker\bin\Debug\Cracker.pdb
+C:\Users\я\Desktop\GiftCarder\Cracker\obj\Debug\Cracker.csprojResolveAssemblyReference.cache
+C:\Users\я\Desktop\GiftCarder\Cracker\obj\Debug\Cracker.exe
+C:\Users\я\Desktop\GiftCarder\Cracker\obj\Debug\Cracker.pdb
+E:\VMware\Crack\work\GiftCarder\Cracker\bin\Debug\Cracker.exe.config
+E:\VMware\Crack\work\GiftCarder\Cracker\bin\Debug\Cracker.exe
+E:\VMware\Crack\work\GiftCarder\Cracker\bin\Debug\Cracker.pdb
+E:\VMware\Crack\work\GiftCarder\Cracker\bin\Debug\xNet.dll
+E:\VMware\Crack\work\GiftCarder\Cracker\obj\Debug\Cracker.exe
+E:\VMware\Crack\work\GiftCarder\Cracker\obj\Debug\Cracker.pdb
+E:\VMware\Crack\work\GiftCarder\Cracker\bin\Debug\DeathByCaptcha.dll
+E:\VMware\Crack\work\GiftCarder\Cracker\obj\Debug\BruteEngine.CaptchaForm.resources
+E:\VMware\Crack\work\GiftCarder\Cracker\obj\Debug\Cracker.csproj.GenerateResource.Cache

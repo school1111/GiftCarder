@@ -1,0 +1,40 @@
+E:\VMware\Crack\work\GiftCarder\Cracker\bin\Debug\GiftCarder.exe.config
+E:\VMware\Crack\work\GiftCarder\Cracker\bin\Debug\GiftCarder.exe
+E:\VMware\Crack\work\GiftCarder\Cracker\bin\Debug\GiftCarder.pdb
+E:\VMware\Crack\work\GiftCarder\Cracker\bin\Debug\DeathByCaptcha.dll
+E:\VMware\Crack\work\GiftCarder\Cracker\bin\Debug\xNet.dll
+E:\VMware\Crack\work\GiftCarder\Cracker\obj\Debug\BruteEngine.CaptchaForm.resources
+E:\VMware\Crack\work\GiftCarder\Cracker\obj\Debug\GiftCarder.csproj.GenerateResource.Cache
+E:\VMware\Crack\work\GiftCarder\Cracker\obj\Debug\GiftCarder.exe
+E:\VMware\Crack\work\GiftCarder\Cracker\obj\Debug\GiftCarder.pdb
+C:\Users\я\Desktop\GiftCarder\Cracker\bin\Debug\GiftCarder.exe.config
+C:\Users\я\Desktop\GiftCarder\Cracker\bin\Debug\GiftCarder.exe
+C:\Users\я\Desktop\GiftCarder\Cracker\bin\Debug\GiftCarder.pdb
+C:\Users\я\Desktop\GiftCarder\Cracker\obj\Debug\GiftCarder.csprojResolveAssemblyReference.cache
+C:\Users\я\Desktop\GiftCarder\Cracker\obj\Debug\BruteEngine.CaptchaForm.resources
+C:\Users\я\Desktop\GiftCarder\Cracker\obj\Debug\GiftCarder.csproj.GenerateResource.Cache
+C:\Users\я\Desktop\GiftCarder\Cracker\obj\Debug\GiftCarder.exe
+C:\Users\я\Desktop\GiftCarder\Cracker\obj\Debug\GiftCarder.pdb
+C:\Users\1\Downloads\Telegram Desktop\GiftCarder (2)\Cracker\bin\Debug\GiftCarder.exe.config
+C:\Users\1\Downloads\Telegram Desktop\GiftCarder (2)\Cracker\bin\Debug\GiftCarder.exe
+C:\Users\1\Downloads\Telegram Desktop\GiftCarder (2)\Cracker\bin\Debug\GiftCarder.pdb
+C:\Users\1\Downloads\Telegram Desktop\GiftCarder (2)\Cracker\bin\Debug\DeathByCaptcha.dll
+C:\Users\1\Downloads\Telegram Desktop\GiftCarder (2)\Cracker\bin\Debug\xNet.dll
+C:\Users\1\Downloads\Telegram Desktop\GiftCarder (2)\Cracker\obj\Debug\GiftCarder.csprojResolveAssemblyReference.cache
+C:\Users\1\Downloads\Telegram Desktop\GiftCarder (2)\Cracker\obj\Debug\BruteEngine.CaptchaForm.resources
+C:\Users\1\Downloads\Telegram Desktop\GiftCarder (2)\Cracker\obj\Debug\GiftCarder.csproj.GenerateResource.Cache
+C:\Users\1\Downloads\Telegram Desktop\GiftCarder (2)\Cracker\obj\Debug\GiftCarder.exe
+C:\Users\1\Downloads\Telegram Desktop\GiftCarder (2)\Cracker\obj\Debug\GiftCarder.pdb
+C:\Users\1\Downloads\Telegram Desktop\GiftCarder (4)\Cracker\bin\Debug\GiftCarder.exe.config
+C:\Users\1\Downloads\Telegram Desktop\GiftCarder (4)\Cracker\bin\Debug\GiftCarder.exe
+C:\Users\1\Downloads\Telegram Desktop\GiftCarder (4)\Cracker\bin\Debug\GiftCarder.pdb
+C:\Users\1\Downloads\Telegram Desktop\GiftCarder (4)\Cracker\bin\Debug\DeathByCaptcha.dll
+C:\Users\1\Downloads\Telegram Desktop\GiftCarder (4)\Cracker\bin\Debug\xNet.dll
+C:\Users\1\Downloads\Telegram Desktop\GiftCarder (4)\Cracker\obj\Debug\GiftCarder.csprojResolveAssemblyReference.cache
+C:\Users\1\Downloads\Telegram Desktop\GiftCarder (4)\Cracker\obj\Debug\BruteEngine.CaptchaForm.resources
+C:\Users\1\Downloads\Telegram Desktop\GiftCarder (4)\Cracker\obj\Debug\GiftCarder.csproj.GenerateResource.Cache
+C:\Users\1\Downloads\Telegram Desktop\GiftCarder (4)\Cracker\obj\Debug\GiftCarder.exe
+C:\Users\1\Downloads\Telegram Desktop\GiftCarder (4)\Cracker\obj\Debug\GiftCarder.pdb
+C:\Users\xPolish\Documents\Visual Studio 2015\Projects\GiftCarder\Cracker\bin\Debug\GiftCarder.exe.config
+C:\Users\xPolish\Documents\Visual Studio 2015\Projects\GiftCarder\Cracker\obj\Debug\GiftCarder.exe
+C:\Users\xPolish\Documents\Visual Studio 2015\Projects\GiftCarder\Cracker\obj\Debug\GiftCarder.pdb

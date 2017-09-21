@@ -1,0 +1,11 @@
+C:\Users\xPolish\Documents\Visual Studio 2015\Projects\GiftCarder\Cracker\bin\Release\GiftCarder.exe.config
+C:\Users\xPolish\Documents\Visual Studio 2015\Projects\GiftCarder\GiftCarder\bin\Release\GiftCarder.exe.config
+C:\Users\xPolish\Documents\Visual Studio 2015\Projects\GiftCarder\GiftCarder\bin\Release\GiftCarder.exe
+C:\Users\xPolish\Documents\Visual Studio 2015\Projects\GiftCarder\GiftCarder\bin\Release\GiftCarder.pdb
+C:\Users\xPolish\Documents\Visual Studio 2015\Projects\GiftCarder\GiftCarder\bin\Release\DeathByCaptcha.dll
+C:\Users\xPolish\Documents\Visual Studio 2015\Projects\GiftCarder\GiftCarder\bin\Release\xNet.dll
+C:\Users\xPolish\Documents\Visual Studio 2015\Projects\GiftCarder\GiftCarder\obj\Release\GiftCarder.csprojResolveAssemblyReference.cache
+C:\Users\xPolish\Documents\Visual Studio 2015\Projects\GiftCarder\GiftCarder\obj\Release\BruteEngine.CaptchaForm.resources
+C:\Users\xPolish\Documents\Visual Studio 2015\Projects\GiftCarder\GiftCarder\obj\Release\GiftCarder.csproj.GenerateResource.Cache
+C:\Users\xPolish\Documents\Visual Studio 2015\Projects\GiftCarder\GiftCarder\obj\Release\GiftCarder.exe
+C:\Users\xPolish\Documents\Visual Studio 2015\Projects\GiftCarder\GiftCarder\obj\Release\GiftCarder.pdb
