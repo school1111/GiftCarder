@@ -291,7 +291,7 @@ namespace GiftCarder
 			}
 			if (arg.Equals("updateava"))
 			{
-				res = "New Update available check discord to download, Closing...";
+				res = "New Update available check giftcarder.pl to download, Closing...";
 			}
 			if (arg.Equals("successconnect"))
 			{
