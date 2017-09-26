@@ -13,7 +13,7 @@ namespace GiftCarder
 {
 	class Program
 	{
-		static string ver = "Final";
+		static string ver = "1.0";
 		static string status = string.Empty;
 		static string name = string.Empty;
 		private static Dictionary<string, IPlugin> PluginsDictionary;
@@ -37,13 +37,13 @@ namespace GiftCarder
 			{
 				try
 				{
-                    if (ver == webClient.DownloadString("http://auth.xpolish.pl/carder/v.txt"))
+                    if (ver == webClient.DownloadString("http://giftcarder.pl/v.txt"))
                     {
                         status = "Connecting to server...";
                         Console.Title = String.Format(Messages("maint"), messages.programname, status, ver);
                         Console.ForegroundColor = ConsoleColor.Yellow;
                         Console.WriteLine(Messages("tryingconnect"));
-                        string res = webClient.DownloadString("http://auth.xpolish.pl/carder/c.txt");
+                        string res = webClient.DownloadString("http://giftcarder.pl/c.txt");
                         Console.ForegroundColor = ConsoleColor.Green;
                         if (res.Equals("Thanks"))
                         {
@@ -141,15 +141,9 @@ namespace GiftCarder
             Console.ForegroundColor = ConsoleColor.White;
             Thread.Sleep(500);
             Console.WriteLine(Messages("line1"));
-            Console.ForegroundColor = ConsoleColor.Yellow;
-            Thread.Sleep(500);
-            Console.WriteLine("Special Thanks to all my buyers,they paid for this and with they money i could take care of my family and buy school books.");
-            Console.ForegroundColor = ConsoleColor.White;
-            Thread.Sleep(500);
-            Console.WriteLine(Messages("line1"));
             Thread.Sleep(500);
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("Official GiftCarder discord: https://discord.gg/DCc8PwH");
+            Console.WriteLine("Official GiftCarder discord: https://discord.gg/DCc8PwH & http://giftcarder.pl");
             Thread.Sleep(500);
             Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine(Messages("line1"));

@@ -36,23 +36,17 @@ namespace GiftCarder.Plugins
 			string s = File.ReadAllText(file);
 			PSettings p = new PSettings
 			{
-				Name = s.GetData("Name"), // name (only letters and numbers)
-				CardDictionary = s.GetData("CardDictionary"), // symbols for cards 
-															  //300404938317865  - 0123456789 
-															  //RG-KEK-TEMPLATE123  - 1234567890QWERTYUIOPASDFGHJKLZXCVBNM
-															  //kek-template - qazwsxedcrfvtgbyhnujmikolp
-
-				LastSymReplace = Int32.Parse(s.GetData("LastSymReplace")),//example: 300404938317865
-																		  //if 6:  17865  > *****
-																		  //if 3:  65  > **
-				ModuleType = s.GetData("ModuleType"), // Simple or Token
-				UrlTok = s.GetData("UrlTok"),    //url for parse tocken(s)
-				UrlTokData = s.GetData("UrlTokData"),//post data for urltok
-				UseProxy = s.GetData("UseProxy"), // true, folse
-				UrlTokMethod = s.GetData("UrlTokMethod"),  // GET or POST
-				UrlData = s.GetData("UrlData"), // post data for url
+				Name = s.GetData("Name"),
+				CardDictionary = s.GetData("CardDictionary"),
+				LastSymReplace = Int32.Parse(s.GetData("LastSymReplace")),
+				ModuleType = s.GetData("ModuleType"),
+				UrlTok = s.GetData("UrlTok"),
+				UrlTokData = s.GetData("UrlTokData"),
+				UseProxy = s.GetData("UseProxy"),
+				UrlTokMethod = s.GetData("UrlTokMethod"),
+				UrlData = s.GetData("UrlData"),
 				Url = s.GetData("Url"),
-				UrlMethod = s.GetData("UrlMethod"), // GET or POST
+				UrlMethod = s.GetData("UrlMethod"),
 				Good = s.GetData("Good"),
 				Bad = s.GetData("Bad"),
 				Pin = s.GetData("Pin"),
