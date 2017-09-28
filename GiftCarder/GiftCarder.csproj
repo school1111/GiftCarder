@@ -39,7 +39,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="DeathByCaptcha">
-      <HintPath>bin\Debug\DeathByCaptcha.dll</HintPath>
+      <HintPath>..\..\..\Visual Studio 2015\Projects\GiftCarder\GiftCarder\bin\Release\DeathByCaptcha.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -53,7 +53,7 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
     <Reference Include="xNet">
-      <HintPath>bin\Debug\xNet.dll</HintPath>
+      <HintPath>..\..\..\Visual Studio 2015\Projects\GiftCarder\GiftCarder\bin\Release\xNet.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
